@@ -1,0 +1,30 @@
+Vendors:
+ - are users
+ - apply to be a vendor, admin approves
+  - must have paypal acct
+  - provide all personal contact details
+  - provide paypal email
+ - vendor logs in
+ - adds products
+ - removes products
+ - updates products
+ - sales
+  - reports
+ - orders
+  - in progress
+  - historical
+ - commissions
+  - calculate
+  - claim
+
+Admin:
+ - are users (staff)
+ - approves vendors
+ - disables vendors
+ - views orders
+  - by vendor, status, period
+
+Customers
+ - are users
+ - place orders, system notifies vendors after payment
+ - pay vendors directly using paypal
